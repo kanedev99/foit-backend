@@ -1,0 +1,1 @@
+web: gunicorn FoitAPI.wsgi —-log-file -
